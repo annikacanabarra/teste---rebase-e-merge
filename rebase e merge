@@ -1,0 +1,5 @@
+git checkout main
+git merge freature 
+git add .
+git commit
+
